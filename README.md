@@ -34,23 +34,24 @@ This project focuses on analyzing a **road accident dataset** to extract meaning
 
 4. Click **File** > **Upload Notebook**
 
-5. Upload the file **road_accident_analysis.ipynb** from the repository.
+5. Upload the file **Global Road Accidents Dataset** from **Kaggle**.
+   
 
-6. Install **pandas**
+7. Install **pandas**
    ```bash
    pip insatll panadas
 
-7. Install **matplotlib**
+8. Install **matplotlib**
     ```bash
    pip install matplotlib
 
-8. Install **seaborn**
+9. Install **seaborn**
    ```bash
    pip install seaborn
 
-9. Run the **Notebook**
+10. Run the **Notebook**
 Execute the cells in the notebook sequentially:
-- The code cells are designed for tasks like data loading, cleaning, analysis, and     visualization.
+- The code cells are designed for tasks like data loading, cleaning, analysis, and visualization.
 - Outputs like graphs and insights will appear below their respective code cells.
 
 ---
