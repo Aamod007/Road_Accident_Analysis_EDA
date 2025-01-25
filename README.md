@@ -25,3 +25,45 @@ This project focuses on analyzing a **road accident dataset** to extract meaning
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Road_Accident_Analysis_EDA.git
+
+2. Navigate to the downloaded repository folder:
+   ```bash
+   cd Road_Accident_Analysis_EDA
+
+3. Open **Google Colab**
+
+4. Click **File** > **Upload Notebook**
+
+5. Upload the file **road_accident_analysis.ipynb** from the repository.
+
+6. Install **pandas**
+   ```bash
+   pip insatll panadas
+
+7. Install **matplotlib**
+    ```bash
+   pip install matplotlib
+
+8. Install **seaborn**
+   ```bash
+   pip install seaborn
+
+9. Run the **Notebook**
+Execute the cells in the notebook sequentially:
+- The code cells are designed for tasks like data loading, cleaning, analysis, and     visualization.
+- Outputs like graphs and insights will appear below their respective code cells.
+
+---
+
+## 🔮 Future Scope
+- Incorporating machine learning models to predict accident severity.
+- Expanding the analysis with real-time accident data.
+- Integrating road safety recommendations into actionable strategies.
+
+ ---
+
+## 🤝 Acknowledgments
+This project was completed as part of the Externs Club 3-month program.
+
+---
+
